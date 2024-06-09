@@ -1,0 +1,11 @@
+<title> tag
+document - content
+<title>Document</title> whole - element
+UTF-8 changes from alphabet to binary
+initial-scale=1.0"> - by deafult there will be no zooming
+<s> katne
+<u> underline
+<sub> h20 
+<sup> 1st
+<fieldset> box
+min length minimum teti hununparcha
